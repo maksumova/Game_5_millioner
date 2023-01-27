@@ -95,3 +95,4 @@ class Game{
 //
 //let game = Game(username: "Игрок 1")
 //game.play()
+    
